@@ -1,0 +1,11 @@
+[
+  {
+    "username": "teacher",
+    "password": {
+      "algorithm": "pbkdf2_sha256",
+      "iterations": 120000,
+      "salt": "5f565c6ed4254ba6df69d49d41558056",
+      "hash": "928c960380981e2b9803debea16ef5317dbc5835c52b4f8cddb2b03089e315bd"
+    }
+  }
+]
